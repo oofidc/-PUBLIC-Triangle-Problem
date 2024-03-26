@@ -1,2 +1,0 @@
-10
-^NumDots Limit
